@@ -1,0 +1,10 @@
+body {
+    background: url('https://las.leagueoflegends.com/sites/default/files/styles/scale_xlarge/public/upload/lol_promoart_11_1.jpg?itok=G2pfjroC') no-repeat;
+    background-size: cover;
+}
+.center-container {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    color: white;
+}
